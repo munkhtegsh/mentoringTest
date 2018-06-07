@@ -1,0 +1,41 @@
+Answer each question in a written format
+
+1. What does semantic HTML mean?
+
+2. What is the box model?
+
+3. What is the difference between IDs and Classes?
+
+4. What does the z-index do?
+
+5. Summarize what the keyword 'this' is used for?
+
+6. What is a callback?
+
+7. What is a closure?
+
+8. How does prototype work?
+
+9. What is MVC?
+
+10. What is the component lifecycle?
+
+11. What is REST?
+
+12. Name three ways of getting data from the URL using express
+
+create table users (
+id serial,
+name varchar(255),
+email varchar(255)
+)
+
+12. Given the Schema above, write the following four basic CRUD db queries using postgres syntax
+
+-Get all users:
+
+-Create a new user with the name of 'your name' and an email of 'fake@fake.com':
+
+-Update the newly created user's name to 'Bobby Boy':
+
+-Delete the newly updated user:
